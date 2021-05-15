@@ -4,7 +4,7 @@ body{
     
 }
 
-.main_image {
+.body_bck_image {
     background-image: url("../img/skyline.jpg");
     min-height: 500px;
     background-attachment: fixed;
@@ -31,7 +31,7 @@ body{
     background-image: url(../img/earth.jpg)
 }
 
-.project_image{
+.projects_image{
     background-image: url("../img/skyline.jpg");
     min-height: 200px;
     background-attachment: fixed;
@@ -54,7 +54,7 @@ li{
     margin: 5%;
 }
 
-.galaxy_image {
+.main_content_image {
     background-image: url("../img/moonpic.jpg");
     min-height: 500px;
     background-attachment: fixed;
@@ -79,7 +79,7 @@ li{
     width: 40px;
     display: none;
     position: fixed;
-    bottom: 20px;
+    bottom: 100px;
     right: 300px;
     z-index: 99; 
     border: none; 
